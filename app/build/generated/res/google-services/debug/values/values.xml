@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">819781347618-2a5ef6icuhpk1ub4q9mcura7ctlcheqo.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">819781347618</string>
+    <string name="google_api_key" translatable="false">AIzaSyDUiAXQ99wXfNQ_crWYE5Jm03IIAOl5hFE</string>
+    <string name="google_app_id" translatable="false">1:819781347618:android:4805a773ea5e44cba45d7b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDUiAXQ99wXfNQ_crWYE5Jm03IIAOl5hFE</string>
+    <string name="google_storage_bucket" translatable="false">kappa-chat-d47b3.appspot.com</string>
+    <string name="project_id" translatable="false">kappa-chat-d47b3</string>
+</resources>

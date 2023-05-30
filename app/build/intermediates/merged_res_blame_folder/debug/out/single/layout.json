@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.kappaapps.kappachat.app-mergeDebugResources-40:/layout/item_receive_group.xml",
+        "source": "com.kappaapps.kappachat.app-main-43:/layout/item_receive_group.xml"
+    },
+    {
+        "merged": "com.kappaapps.kappachat.app-mergeDebugResources-40:/layout/activity_phone_number.xml",
+        "source": "com.kappaapps.kappachat.app-main-43:/layout/activity_phone_number.xml"
+    },
+    {
+        "merged": "com.kappaapps.kappachat.app-mergeDebugResources-40:/layout/delete_dialog.xml",
+        "source": "com.kappaapps.kappachat.app-main-43:/layout/delete_dialog.xml"
+    },
+    {
+        "merged": "com.kappaapps.kappachat.app-mergeDebugResources-40:/layout/item_status.xml",
+        "source": "com.kappaapps.kappachat.app-main-43:/layout/item_status.xml"
+    },
+    {
+        "merged": "com.kappaapps.kappachat.app-mergeDebugResources-40:/layout/activity_chat.xml",
+        "source": "com.kappaapps.kappachat.app-main-43:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.kappaapps.kappachat.app-mergeDebugResources-40:/layout/demo_layout.xml",
+        "source": "com.kappaapps.kappachat.app-main-43:/layout/demo_layout.xml"
+    },
+    {
+        "merged": "com.kappaapps.kappachat.app-mergeDebugResources-40:/layout/nav_header_main.xml",
+        "source": "com.kappaapps.kappachat.app-main-43:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.kappaapps.kappachat.app-mergeDebugResources-40:/layout/activity_setup_profile.xml",
+        "source": "com.kappaapps.kappachat.app-main-43:/layout/activity_setup_profile.xml"
+    },
+    {
+        "merged": "com.kappaapps.kappachat.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.kappaapps.kappachat.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.kappaapps.kappachat.app-mergeDebugResources-40:/layout/activity_group_chat.xml",
+        "source": "com.kappaapps.kappachat.app-main-43:/layout/activity_group_chat.xml"
+    },
+    {
+        "merged": "com.kappaapps.kappachat.app-mergeDebugResources-40:/layout/activity_o_t_p.xml",
+        "source": "com.kappaapps.kappachat.app-main-43:/layout/activity_o_t_p.xml"
+    },
+    {
+        "merged": "com.kappaapps.kappachat.app-mergeDebugResources-40:/layout/item_sent.xml",
+        "source": "com.kappaapps.kappachat.app-main-43:/layout/item_sent.xml"
+    },
+    {
+        "merged": "com.kappaapps.kappachat.app-mergeDebugResources-40:/layout/demo_status.xml",
+        "source": "com.kappaapps.kappachat.app-main-43:/layout/demo_status.xml"
+    },
+    {
+        "merged": "com.kappaapps.kappachat.app-mergeDebugResources-40:/layout/item_sent_group.xml",
+        "source": "com.kappaapps.kappachat.app-main-43:/layout/item_sent_group.xml"
+    },
+    {
+        "merged": "com.kappaapps.kappachat.app-mergeDebugResources-40:/layout/row_conversation.xml",
+        "source": "com.kappaapps.kappachat.app-main-43:/layout/row_conversation.xml"
+    },
+    {
+        "merged": "com.kappaapps.kappachat.app-mergeDebugResources-40:/layout/item_receive.xml",
+        "source": "com.kappaapps.kappachat.app-main-43:/layout/item_receive.xml"
+    }
+]

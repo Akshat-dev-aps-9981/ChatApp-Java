@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819781347618",
+    "project_id": "kappa-chat-d47b3",
+    "storage_bucket": "kappa-chat-d47b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819781347618:android:4805a773ea5e44cba45d7b",
+        "android_client_info": {
+          "package_name": "com.kappaapps.kappachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819781347618-2a5ef6icuhpk1ub4q9mcura7ctlcheqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUiAXQ99wXfNQ_crWYE5Jm03IIAOl5hFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819781347618-2a5ef6icuhpk1ub4q9mcura7ctlcheqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

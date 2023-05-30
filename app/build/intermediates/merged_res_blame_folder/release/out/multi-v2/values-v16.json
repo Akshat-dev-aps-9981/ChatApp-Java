@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.kappaapps.kappachat.app-mergeReleaseResources-39:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/b458e70e2cebc83d4ef1aca7c0337bdd/transformed/appcompat-1.4.2/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/7c729e5f4683098bd8e1d0ba3c4c505a/transformed/core-1.7.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
