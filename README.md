@@ -1,7 +1,7 @@
 # ChatApp-Java
 Simple chat application for android in java language. This supports chats, group chats, statuses and notifications.
 
-# Chirp Chat - Realtime Messaging App
+# Chat-App - Realtime Messaging App
 
 ![Chirp Chat Banner](banner.png)
 
