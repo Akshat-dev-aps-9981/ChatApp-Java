@@ -3,9 +3,9 @@ Simple chat application for android in java language. This supports chats, group
 
 # Chat-App - Realtime Messaging App
 
-![Chirp Chat Banner](banner.png)
+![Chat-App Banner](banner.png)
 
-Chat-App is a real-time messaging application that allows users to communicate instantly with their friends, family, and colleagues. This repository contains the source code for Chirp Chat, along with its various features including real-time messaging, status updates, chat reactions, and more.
+Chat-App is a real-time messaging application that allows users to communicate instantly with their friends, family, and colleagues. This repository contains the source code for Chat-App, along with its various features including real-time messaging, status updates, chat reactions, and more.
 
 ## Features
 
@@ -25,11 +25,11 @@ Chat-App comes with several exciting features that enhance the messaging experie
 
 - **Notifications**: Get notified instantly when you receive a new message, even if the app is in the background.
 
-- **Responsive Design**: Chirp Chat is designed to work seamlessly across different devices and screen sizes.
+- **Responsive Design**: Chat-App is designed to work seamlessly across different devices and screen sizes.
 
 ## Getting Started
 
-To run Chirp Chat locally or deploy it to your own server, follow these steps:
+To run Chat-App locally or deploy it to your own server, follow these steps:
 
 1. **Clone the Repository**: Start by cloning this repository to your local machine.
 
@@ -44,7 +44,7 @@ cd Chat-App
 npm install
 ```
 
-3. **Configure Firebase**: Chirp Chat uses Firebase for its real-time database and authentication. Create a Firebase project and configure the app by adding your Firebase configuration details to the `src/firebase.js` file.
+3. **Configure Firebase**: Chat-App uses Firebase for its real-time database and authentication. Create a Firebase project and configure the app by adding your Firebase configuration details to the `src/firebase.js` file.
 
 4. **Start the Development Server**: Once the dependencies are installed and Firebase is configured, start the development server.
 
@@ -52,11 +52,11 @@ npm install
 npm start
 ```
 
-5. **Access the App**: Open a web browser and go to `http://localhost:3000` to access Chirp Chat.
+5. **Access the App**: Open a web browser and go to `http://localhost:3000` to access Chat-App.
 
 ## Contributing
 
-We welcome contributions to Chirp Chat! If you find a bug or have an idea for an enhancement, feel free to open an issue or submit a pull request. Please make sure to follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions to Chat-App! If you find a bug or have an idea for an enhancement, feel free to open an issue or submit a pull request. Please make sure to follow our [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
